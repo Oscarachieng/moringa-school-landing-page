@@ -71,7 +71,7 @@ im3{
 }
 .tmx{
     display: grid;
-    d
+
 }
 body{
     margin: 20px;
@@ -85,4 +85,21 @@ body{
 .graduation{
     margin-left: 300px;
     margin-right: 300px;  
+}
+.project cool{
+    width: 200px;
+    height: fit-content;
+}
+.album{
+    background-color: hotpink;
+    display: flexbox;
+    width: fit-content;
+}
+.read{
+    background-color: hotpink;
+    display: block;
+    width: fit-content;
+}
+.board .bi{
+    width: 100px;
 }
