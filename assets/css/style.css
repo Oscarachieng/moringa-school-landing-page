@@ -1,0 +1,11 @@
+.top{
+    display: inline-block;
+    margin: 0px;
+    padding: 0px;
+    background-color: blueviolet;
+    height: 80px;
+    width: 100%;
+}
+.inline{
+    display: inline-block;
+}
