@@ -29,3 +29,20 @@ nav{
 .nav ul li a{
 
 }
+.mor{
+    width: 60%;
+}
+.p{
+    width: 50%;
+    align-items: stretch;
+}
+.innav ul li{
+    list-style: none;
+    display: inline-block;
+    margin-left: 10px;
+    border-style: groove;
+}
+.s{
+    background-color: hotpink;
+    color: antiquewhite;
+}
