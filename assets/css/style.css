@@ -68,15 +68,8 @@ nav{
     padding: 10px;
     border-radius: 3px;
 }
-
-#im1{
-    float: right;
-}
-
-.right{
-    float: right;
-    width: 30%;
-    height: 100px;
+.stories{
+    display: flex;
 }
 #im3{
     float: right;
@@ -104,8 +97,9 @@ body{
     padding: 20px;
 }
 .stories{
-    margin-left: 300px;
-    margin-right: 300px;
+    margin-left: 00px;
+    margin-right: 00px;
+    justify-content:;
 }
 
 .graduation{
