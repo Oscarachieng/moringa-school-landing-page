@@ -38,19 +38,26 @@ nav{
     margin-right: 10px;
     
 }
-.p{
+.moringa{
     width: 50%;
-    align-items: stretch;
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
 }
 .innav ul li{
     list-style: none;
     display: inline-block;
-    margin-left: 10px;
+    margin-left: 0px;
     border-style: groove;
+
+}
+.innav{
+    display: inline-block;
 }
 .s{
     background-color: hotpink;
     color: antiquewhite;
+    padding: 4px;
 }
 
 #im1{
