@@ -70,6 +70,16 @@ nav{
 }
 .stories{
     display: flex;
+    justify-content: safe;
+}
+.story{
+    font-size: large;
+    text-align: center;
+}
+#memories{
+    font-size: xx-small;
+    font-style: italic;
+    font-weight: 100;
 }
 #im3{
     float: right;
@@ -99,7 +109,7 @@ body{
 .stories{
     margin-left: 00px;
     margin-right: 00px;
-    justify-content:;
+   
 }
 
 .graduation{
