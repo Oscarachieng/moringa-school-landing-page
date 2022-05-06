@@ -44,11 +44,19 @@ nav{
     flex-direction: row;
     justify-content: end;
 }
-.innav ul li{
-    list-style: none;
+#ul{
+    justify-content: left;
+    align-items: flex-end;
+}
+.moringa > #section1 >ul >li{
+
     display: inline-block;
-    margin-left: 0px;
-    border-style: groove;
+    
+    margin: 10px;
+    
+    border-radius: 3px;
+    
+    
 
 }
 .innav{
@@ -57,7 +65,8 @@ nav{
 .s{
     background-color: hotpink;
     color: antiquewhite;
-    padding: 4px;
+    padding: 10px;
+    border-radius: 3px;
 }
 
 #im1{
