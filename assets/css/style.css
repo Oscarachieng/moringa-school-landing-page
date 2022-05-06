@@ -26,6 +26,11 @@
 nav{
     text-align: right;
 }
+.par{
+    color: hotpink;
+    font-size: larger;
+    font-weight: ;
+}
 .mor{
     width: 100%;
     align-items: center;
